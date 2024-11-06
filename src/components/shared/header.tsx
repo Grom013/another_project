@@ -14,7 +14,7 @@ import { User,ShoppingCart, ArrowRight } from 'lucide-react';
             <Container className='flex items-center justify-between py-8'>
 
                 <div className='flex items-center gap-4'>
-                    <Image src='/logo.png' alt='logo' width={35} height={35}/>
+                    <Image src='' alt='logo' width={35} height={35}/>
                     <div>
                         <h1 className='text-2x1 uppercase font-black'>Next Pizza</h1>
                         <p className='text-sm text-gray-400 leading-3'>Вкусней уже некуда</p>
